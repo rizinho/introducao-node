@@ -1,0 +1,29 @@
+{
+  "name": "introducao-node",
+  "version": "1.0.0",
+  "description": "aula NODE JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizinho/introducao-node.git"
+  },
+  "keywords": [
+    "introdução",
+    "nodejs",
+    "express"
+  ],
+  "author": "Richard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rizinho/introducao-node/issues"
+  },
+  "homepage": "https://github.com/rizinho/introducao-node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  }
+}
